@@ -8,4 +8,3 @@ Para roda esse projeto na sua máquina, por favor digire:
 node app.js
 
 ```
-:)
